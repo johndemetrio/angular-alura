@@ -17,5 +17,7 @@ export class CriarPensamentosComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  cancelar(){
+    alert()
+  }
 }
